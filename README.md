@@ -1,5 +1,7 @@
 # Stage WP
 
+🛑 ***Notice:** This project has reached its end-of-life. The code remains available here for historical reference and archival purposes only. Most of its functionality has been replaced by [andrezrv/wp-boilerplate](https://github.com/andrezrv/wp-boilerplate)*
+
 A toolkit for creating professional [WordPress][wp] deployments, forked from Mark Jaquith's [WP-Stack][wpstack]. It uses Capistrano as a code deployment system, and offers a complete set of tasks for you to scale your WordPress project to different servers, both from local and remote environments.
 
 **Current stable version**: [1.1.1](https://github.com/andrezrv/stage-wp/tree/1.1.1)
